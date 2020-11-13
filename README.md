@@ -1,6 +1,6 @@
 # apiodata
 Consumindo API odata com C#
-aqui estao apenas os C# criados relevantes mas é necessario preparar o projeto com migrations
+aqui estao apenas os C# criados relevantes mas é necessario preparar o projeto com migrations e entityframework.
  fiz o teste o fonte esta feito em c# (incluso todas os recursos para usar API Odata) 
 poderao baixar o projeto no link: https://drive.google.com/file/d/1OkqJX2gqRFfTWUir0wA47nwu74zp8fQN/view
 Instrucoes
